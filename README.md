@@ -1,0 +1,3 @@
+- Hi, I’m @Yaldabaot4
+- I’m interested in Computer Science and Cognitive Science
+- I’m studying at The University of Chicago
